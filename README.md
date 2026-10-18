@@ -249,7 +249,7 @@ These results must not be invented from incomplete data.
 
 ## How to Reproduce
 
-1. Open `NBA_Project6_Data_MVP_Analysis.ipynb`
+1. Open `NBA_Data_MVP_Analysis.ipynb`
    in Google Colab.
 2. Upload the original NBA dataset.
 3. If needed, set `DATA_FILE` to the exact file path.
